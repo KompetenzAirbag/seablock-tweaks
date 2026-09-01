@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 01.09.2026
+  Features:
+    - Removing solar panels, accumulators and/or wind mills from starting items
+    - Makes starting rock generate power
+---------------------------------------------------------------------------------------------------
