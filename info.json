@@ -1,12 +1,12 @@
 {
     "name": "seablock-tweaks",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "Airbags Sea Block Tweaks",
     "author": "KompetenzAirbag",
-    "factorio_version": "2.0",
+    "factorio_version": "2.1",
     "description": "Personal tweaks for Sea Block. Removes wind mills and makes the starter rock generate power. Be wary of softlocks.",
     "dependencies": [
-        "base >= 2.0.0",
-        "SeaBlock >= 0.6.0"
+        "base >= 2.1.0",
+        "SeaBlock >= 0.7.0"
     ]
 }
